@@ -11,14 +11,8 @@ A feature-rich chess game built with Python and Pygame, featuring multiple game 
 ### 🎯 Multiple Game Modes
 - **Human vs Human** - Play against a friend on the same computer
 - **Human vs AI** - Challenge the AI (play as White or Black)
-- **AI vs AI** - Watch the AI learn and improve by playing against itself
 
-### ⏱️ Flexible Time Controls
-- Bullet (1 minute)
-- Blitz (3 & 5 minutes)
-- Rapid (10 & 15 minutes)
-- Classical (30 minutes)
-- No Timer (unlimited time)
+
 
 ### 🧠 Self-Learning AI
 - **Temporal Difference Learning** - AI learns from every game
@@ -27,13 +21,7 @@ A feature-rich chess game built with Python and Pygame, featuring multiple game 
 - **Persistent Memory** - Knowledge is saved between sessions
 - **Learning Visualization** - Track AI's progress with detailed statistics
 
-### 🎨 Modern UI
-- Clean, professional design inspired by popular chess platforms
-- Smooth piece animations
-- Visual move indicators (dots for moves, circles for captures)
-- Highlighted squares for selected pieces
-- Real-time game statistics
-- Move history panel
+
 
 ### ♟️ Complete Chess Rules
 - All standard chess moves (including castling and en passant)
@@ -123,17 +111,8 @@ The more games the AI plays, the stronger it becomes!
 **Training Tips:**
 - Play multiple games to build the AI's knowledge base
 - Try different openings to diversify its experience
-- Use AI vs AI mode for rapid training
 - Check learning stats after each game
 
-### Monitoring Progress
-
-#### Real-time Statistics
-- Games played
-- Win/Loss/Draw record
-- Win rate percentage
-- Positions learned
-- Current exploration rate
 
 #### Detailed Analysis
 Run the learning visualizer for comprehensive insights:
@@ -147,25 +126,7 @@ Features:
 - 🎯 Position confidence analysis
 - 💡 Training recommendations
 
-## 📁 Project Structure
 
-```
-chess-game/
-│
-├── ChessMain_Enhanced.py      # Main game with all modes
-├── ChessEngine.py              # Core chess logic and rules
-├── SelfLearningAI.py          # Self-learning AI implementation
-├── SmartMoveFinder.py         # Traditional minimax AI
-├── LearningVisualizer.py      # AI analytics and visualization
-│
-├── images/                     # Chess piece images
-│   ├── wp.png, wN.png, ...
-│   └── bp.png, bN.png, ...
-│
-├── chess_ai_brain.pkl         # AI's learned knowledge (auto-generated)
-├── ai_stats.json              # AI statistics (auto-generated)
-└── ai_backups/                # AI brain backups (auto-generated)
-```
 
 ## 🎓 AI Learning Details
 
@@ -302,8 +263,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+-Vishal
+- Email: vishalkrishnakkr@gmail.com
 
 ## ⭐ Show Your Support
 
