@@ -1,0 +1,10 @@
+{
+  "games": 19,
+  "wins": 3,
+  "losses": 14,
+  "draws": 2,
+  "win_rate": 15.789473684210526,
+  "positions_learned": 571,
+  "exploration_rate": 0.272746878474759,
+  "last_updated": "2025-10-31T18:20:04.849169"
+}
